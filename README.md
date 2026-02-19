@@ -1,6 +1,34 @@
 # 2024-Sales-Analysis
 ----
 
+## Table of Content
+
+[Project Overview](#Project-overview)
+
+[Problem Sttement](#Problem-Statement)
+
+[Objectives](#Objectives)
+
+[Dataset Description](#Dataset-Description)
+
+[Calculated Metrics](#Calculated-Metrics)
+
+[Data Preparation Process](#Data-Preparation-Process)
+
+[Dashboard Features](#Dashboard-Features)
+
+[Tools & Techniques Used](#Tools--Techniques-Used)
+
+[Key Insights](#Key-Insights)
+
+[Business Impact](#Business-Impact)
+
+[How to use](#How-to-use)
+
+[Files Included](#Files-Included)
+
+
+
 * ## Project Overview
 ---
 The 2024 Sales analysis is an interactive business intelligence solution built using Excel to analyze transaction-level sales data and deliver actionable insights. The analysis integrates order details, product performance, regional trends, and profitability metrics to support data-driven decision-making.
