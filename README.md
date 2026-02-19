@@ -25,7 +25,7 @@
 
 [How to use](#How-to-use)
 
-[Files Included](#Files-Included)
+
 
 
 
@@ -213,7 +213,7 @@ It can be adapted for:
 		○ Date
 	4. Review KPIs and visual charts for insights.
 
-📎 File Included
+📎  File Included
 	• [2024 Salesl Dashboard.xlsx](https://github.com/user-attachments/files/25413542/2024.Salesl.Dashboard.xlsx)
 
 
