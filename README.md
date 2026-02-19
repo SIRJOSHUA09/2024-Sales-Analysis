@@ -159,7 +159,8 @@ The Sales Dashboard includes:
   
 	• Seasonal performance insights
 
-<img width="870" height="414" alt="Screenshot 2026-02-19 114956" src="https://github.com/user-attachments/assets/36690439-2241-4ca2-ae62-c44c9c412b61" />
+
+<img width="870" height="414" alt="Screenshot 2026-02-19 114956" src="https://github.com/user-attachments/assets/aa37ced1-2cc6-461c-859e-3410a392099a" />
 
 
 ## Tools & Techniques Used
@@ -213,9 +214,10 @@ It can be adapted for:
 		○ Date
 	4. Review KPIs and visual charts for insights.
 
-📎  File Included
-	•[![Sales Dashboard](<img width="870" height="414" alt="Screenshot 2026-02-19 114956" src="https://github.com/user-attachments/assets/738d20c1-6ff5-4409-b4e5-f393eb5c59b2" />
-i]()
+📎  File Included  
+[2024 Salesl Dashboard.xlsx](https://github.com/user-attachments/files/25418331/2024.Salesl.Dashboard.xlsx)
+
+	
 
 
 
