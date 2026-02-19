@@ -214,6 +214,8 @@ It can be adapted for:
 	4. Review KPIs and visual charts for insights.
 
 📎  File Included
-	• [2024 Salesl Dashboard.xlsx](https://github.com/user-attachments/files/25413542/2024.Salesl.Dashboard.xlsx)
+	•[![Sales Dashboard](<img width="870" height="414" alt="Screenshot 2026-02-19 114956" src="https://github.com/user-attachments/assets/738d20c1-6ff5-4409-b4e5-f393eb5c59b2" />
+i]()
+
 
 
